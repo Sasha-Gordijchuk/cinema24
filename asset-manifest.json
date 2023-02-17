@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.5b908922.css",
+    "main.js": "/build/static/js/main.e521ed05.js",
+    "static/media/OpenSans-Regular.woff": "/build/static/media/OpenSans-Regular.ab4f6c76f07d0b69c04a.woff",
+    "static/media/OpenSans-SemiBold.woff": "/build/static/media/OpenSans-SemiBold.443bb355ea437a8c4d82.woff",
+    "static/media/Poppins-Regular.woff": "/build/static/media/Poppins-Regular.ba2b048bed146a337122.woff",
+    "static/media/Poppins-SemiBold.woff": "/build/static/media/Poppins-SemiBold.49aee3173950a15c49eb.woff",
+    "static/media/Poppins-Bold.woff": "/build/static/media/Poppins-Bold.353ef3b78d6a476cac89.woff",
+    "static/media/cinema24_logo_footer.png": "/build/static/media/cinema24_logo_footer.1a9d0539d5d42bea85df.png",
+    "static/media/cinema24_logo_full.png": "/build/static/media/cinema24_logo_full.b08e7d421ea9b46ac993.png",
+    "static/media/cross.svg": "/build/static/media/cross.8b8cb08ecfc9f617c9a3.svg",
+    "index.html": "/build/index.html",
+    "static/media/menu_opener.svg": "/build/static/media/menu_opener.4f6b5fe6b47c1feaf118.svg",
+    "main.5b908922.css.map": "/build/static/css/main.5b908922.css.map",
+    "main.e521ed05.js.map": "/build/static/js/main.e521ed05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b908922.css",
+    "static/js/main.e521ed05.js"
+  ]
+}
