@@ -1,0 +1,14 @@
+.slider {
+  max-width: 1050px;
+
+  &__title {
+    @extend %title-text;
+    font-size: 20px;
+    margin-top: 16px;
+  }
+
+  &__text {
+    @extend %secondary-text;
+    color: $main-text-color;
+  }
+}
